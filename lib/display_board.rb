@@ -15,3 +15,4 @@ def capture_puts
 end
 
 output = rows
+rows = baord
