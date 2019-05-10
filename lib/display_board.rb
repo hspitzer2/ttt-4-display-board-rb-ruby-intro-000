@@ -12,5 +12,6 @@ display_board(board)
 
 def capture_puts
   output
-  
 end
+
+output = rows
