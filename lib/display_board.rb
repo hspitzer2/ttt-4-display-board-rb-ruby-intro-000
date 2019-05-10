@@ -5,6 +5,7 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+end
 
 def capture_puts
   output
